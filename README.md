@@ -1,2 +1,2 @@
 # PCA
-Implementation of Principal Component Analysis by hand on a 3 dimensional dataset
+A short exercise implementing principal component analysis on a synthetic low dimensional dataset for visualization of PCA.
